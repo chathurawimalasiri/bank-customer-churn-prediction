@@ -1,5 +1,5 @@
 # bank-customer-churn-prediction
-In this project, I will develop a machine learning model to predict which customers are at high risk of leaving a bank based on their information.
+In this project, I developed a machine learning model to predict which customers are at high risk of leaving a bank based on their information.
 
 ## More Information
 
